@@ -131,9 +131,3 @@ const people = [
         }
     }
 ]
-const peopleJSON =JSON.stringify(people);
-
-console.log(peopleJSON);
-console.log(JSON.parse(peopleJSON));
-
-console.log(people);
