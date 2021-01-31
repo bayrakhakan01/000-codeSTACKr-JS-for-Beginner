@@ -3,6 +3,7 @@ var vv = 22; //var variable doesn't use anymore
 
 let aa = 22; // the variable value is interchangeable
 
+
 const dd = 22; // the variable value is  fixed 
 
 
