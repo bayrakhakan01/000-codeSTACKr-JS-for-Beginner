@@ -24,6 +24,7 @@ listItems.forEach(item => {
     console.log(item.textContent);
 })
 
+
 // DOM manipulation
 
 //list.firstElementChild.remove();
