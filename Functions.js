@@ -10,7 +10,6 @@ function hello (fName, lName) {
 hello ('hakan', 'baba')
 
 
-
 // Normal Function
 
 function convertPercent2 (num2) {
