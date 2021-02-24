@@ -1,6 +1,5 @@
 
 // Loops
-
 //While Loop
 
 let k = 0
